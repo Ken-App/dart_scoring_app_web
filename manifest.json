@@ -2,7 +2,7 @@
     "name": "dart_scoring_app",
     "short_name": "dart_scoring_app",
     "start_url": "/dart_scoring_app_web/",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "KenApplications Flutter App",
